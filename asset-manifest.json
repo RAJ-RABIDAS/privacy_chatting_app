@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/privacy_chatting_app/static/css/main.9cb7495d.chunk.css",
+    "main.js": "/privacy_chatting_app/static/js/main.f6067450.chunk.js",
+    "main.js.map": "/privacy_chatting_app/static/js/main.f6067450.chunk.js.map",
+    "runtime-main.js": "/privacy_chatting_app/static/js/runtime-main.e0dbde07.js",
+    "runtime-main.js.map": "/privacy_chatting_app/static/js/runtime-main.e0dbde07.js.map",
+    "static/js/2.c6fc335b.chunk.js": "/privacy_chatting_app/static/js/2.c6fc335b.chunk.js",
+    "static/js/2.c6fc335b.chunk.js.map": "/privacy_chatting_app/static/js/2.c6fc335b.chunk.js.map",
+    "index.html": "/privacy_chatting_app/index.html",
+    "precache-manifest.4afe323ea43ab6e126b4b78a17169a87.js": "/privacy_chatting_app/precache-manifest.4afe323ea43ab6e126b4b78a17169a87.js",
+    "service-worker.js": "/privacy_chatting_app/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "/privacy_chatting_app/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.c6fc335b.chunk.js.LICENSE.txt": "/privacy_chatting_app/static/js/2.c6fc335b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0dbde07.js",
+    "static/js/2.c6fc335b.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.f6067450.chunk.js"
+  ]
+}
